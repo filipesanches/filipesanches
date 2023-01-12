@@ -1,6 +1,6 @@
 ## Seja bem vindo!<br>Me chamo Filipe 👋🤓🤳
 
-- 🔭 Atualmente estou trabalhando na ELGIN S/A (Analista Suporte Computacional)
+- 🔭 Atualmente estou trabalhando na <b>Cognizant Technology Solutions</b>
 - 🌱 Estudo Análise e desenvolvimento de sistemas
 - 😄 Pronomes: Ele/Dele
 
